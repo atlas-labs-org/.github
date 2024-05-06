@@ -15,7 +15,7 @@ Here are some of our key projects:
 - **Discussions**: Join our [Discord](https://discord.gg/eHQtdeUsMz) server or participate in GitHub Discussions to share ideas and connect with other developers.
 
 ## Contact Us
-If you have any questions or need further information, feel free to contact us on Discord [here](https://discord.gg/eHQtdeUsMz).
+If you have any questions or need further information, feel free to contact us by sending an email to `contact@atlaslabs.cc` or clicking [here](mailto:contact@atlaslabs.cc).
 
 Thank you for being part of Atlas Labs™! We look forward to seeing your contributions and working together to create amazing things.
 
@@ -23,7 +23,9 @@ Thank you for being part of Atlas Labs™! We look forward to seeing your contri
 ### - Mocha ~ CEO @ Atlas Labs
   - [@MochaTheDev](https://github.com/MochaTheDev/) - **GitHub**
   - [@mocha______](https://discord.com/users/555163689871867905/) - **Discord**
+  - [Mocha](mailto:mocha@atlaslabs.cc) - **Email**
 
 ### - Wake ~ CTO @ Atlas Labs
   - [@WakeTheTyrant](https://github.com/WakeTheTyrant/) - **GitHub**
   - [@wakethetyrant](https://discord.com/users/738220512358170655/) - **Discord**
+  - [Wake](mailto:wake@atlaslabs.cc)
